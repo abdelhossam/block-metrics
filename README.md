@@ -13,6 +13,16 @@ Bockmetrics is a **real-time Ethereum blockchain analytics tool** that visualize
 
 ---
 
+## 🌍 **Live Demo & Addresses**
+- **Frontend:** [Blockmetrics](https://stalwart-semolina-67b322.netlify.app/)
+- **USDT Contract:** [0xdAC17F958D2ee523a2206206994597C13D831ec7](https://etherscan.io/address/0xdac17f958d2ee523a2206206994597c13d831ec7) (Ethereum Mainnet)
+- **Tracked Event:** `Transfer(address,address,uint256)`
+- **Event Topic Address:** `0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef`
+
+**Note:** Used `keccak256(toUtf8Bytes("Transfer(address,address,uint256)"))` to obtain **event topic address**.
+
+---
+
 ## 📊 **Blockchain Analytics Charts**
 
 ### 💵 **USDT Transfer Volume Chart**
