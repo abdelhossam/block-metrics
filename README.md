@@ -1,4 +1,4 @@
-# 🚀 Bockmetrics - Real-Time Ethereum Blockchain Analytics
+# 🚀 Bockmetrics - Real-Time Ethereum Blocks Analytics
 
 Bockmetrics is a **real-time Ethereum blockchain analytics tool** that visualizes key on-chain metrics using **Alchemy Ethereum RPC**. The dashboard processes live blockchain data to provide insights into **USDT transfers, base fees, and gas usage per block**.
 
